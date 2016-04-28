@@ -1,1 +1,3 @@
-hello test remote gui
+Simple java EE spring mvc maven project 
+
+WORK IN PROGRESS
